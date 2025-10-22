@@ -1,6 +1,6 @@
 # Stockity que es y para que sirve, cuenta demo, opiniones, descargar: La plataforma que transforma el trading en una experiencia rentable y accesible
 <!-- wp:paragraph -->
-<p>En el mundo del trading online, elegir la plataforma adecuada marca la diferencia entre el éxito y el fracaso. Stockity se ha consolidado como una de las opciones favoritas de traders principiantes y experimentados gracias a su tecnología, seguridad y facilidad de uso.</p>
+<p>En el mundo del trading online, elegir la plataforma adecuada marca la diferencia entre el éxito y el fracaso. <strong><a href="https://stockity-trading.com/">Stockity</a></strong> se ha consolidado como una de las opciones favoritas de traders principiantes y experimentados gracias a su tecnología, seguridad y facilidad de uso.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -34,7 +34,7 @@
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-![pic 2 2](https://github.com/user-attachments/assets/54019546-a8d3-47a8-b2ba-129611273cb5)
+[![pic 2 2](https://github.com/user-attachments/assets/54019546-a8d3-47a8-b2ba-129611273cb5)](https://stockity-trading.com/)
 
 <!-- /wp:paragraph -->
 
@@ -58,6 +58,10 @@
 
 <!-- wp:paragraph -->
 <p>Una vez dentro, tendrás acceso a gráficos detallados, herramientas analíticas, educación gratuita y más de 30 instrumentos diseñados para mejorar tu experiencia de trading.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<img width="1032" height="64" alt="button" src="https://github.com/user-attachments/assets/44bc0217-5271-4072-8304-583f34a5404e" />
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -92,7 +96,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Muchos usuarios se preguntan si Stockity es seguro, si está regulado o si es legal. Stockity cumple con altos estándares internacionales y sigue buenas prácticas del sector financiero. Por ello, Stockity es confiable y ofrece un entorno transparente y protegido.</p>
+<p>Muchos usuarios se preguntan si <strong><a href="https://stockity-trading.com/">Stockity</a></strong> es seguro, si está regulado o si es legal. Stockity cumple con altos estándares internacionales y sigue buenas prácticas del sector financiero. Por ello, Stockity es confiable y ofrece un entorno transparente y protegido.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -144,7 +148,7 @@
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-![pic 3 2](https://github.com/user-attachments/assets/4cc59242-29a2-4f3e-a524-8e88dee336ac)
+[![pic 3 2](https://github.com/user-attachments/assets/4cc59242-29a2-4f3e-a524-8e88dee336ac)](https://stockity-trading.com/)
 
 <!-- /wp:paragraph -->
 
@@ -171,7 +175,7 @@
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p>Stockity es mucho más que una plataforma de trading: es una puerta de entrada al mundo financiero. Con tecnología avanzada, herramientas completas y un entorno pensado para el crecimiento, es el lugar ideal para comenzar tu camino en el trading.</p>
+<p><strong><a href="https://stockity-trading.com/">Stockity</a></strong> es mucho más que una plataforma de trading: es una puerta de entrada al mundo financiero. Con tecnología avanzada, herramientas completas y un entorno pensado para el crecimiento, es el lugar ideal para comenzar tu camino en el trading.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -179,6 +183,9 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-![pic 4 2](https://github.com/user-attachments/assets/d484308f-bb0c-40ed-b934-c1d8ae4dc77e)
+[![pic 4 2](https://github.com/user-attachments/assets/d484308f-bb0c-40ed-b934-c1d8ae4dc77e)](https://stockity-trading.com/)
+<!-- /wp:paragraph -->
 
+<!-- wp:paragraph -->
+<img width="1032" height="64" alt="button" src="https://github.com/user-attachments/assets/44bc0217-5271-4072-8304-583f34a5404e" />
 <!-- /wp:paragraph -->
